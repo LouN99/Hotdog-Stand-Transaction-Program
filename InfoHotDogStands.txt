@@ -1,0 +1,3 @@
+HotDogStand1,17817 Coit Rd,10.27,0,0
+HotDogStand2,800 West Campbell Rd,13.2,0,0
+HotDogStand3,7421 Frankford Rd,18.23,0,0
